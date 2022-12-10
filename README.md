@@ -1,3 +1,2 @@
 # College-association-
-This is project made from Django it contains login logout create user options and only superuser and staff can uploade post or finance in website other user only can view them 
-And also it sends email to every user when new post or finance is uploaded.
+This project is  built as a platform for college association where staff and admin can post and view post and where as students only can view post that are made by staff even this contains a Email function as it will send mail to every registered users, without loging in can't view anypost even if they get a link 
